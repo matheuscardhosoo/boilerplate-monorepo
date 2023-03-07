@@ -1,0 +1,3 @@
+[submodule "boilerplate-business"]
+	path = boilerplate-business
+	url = git@github.com:matheuscardhosoo/boilerplate-business.git
